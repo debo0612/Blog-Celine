@@ -71,23 +71,23 @@ a:hover {
 
 .stories-table li a:hover {
 	text-decoration: none;
-	color: #009EDE;
+	color: pink;
 }
 
 /* Body
 ------------------------------------------------------------ */
 
 html, body {
-font: 100%/120% "lft-etica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font: 100%/120% "lft-etica", "Times New Roman", Times New Roman,Times New Roman, sans-serif;
 }
 
 ::-moz-selection {
-	background-color: #0d72c7;
+	background-color: #FF00FF;
 	color: #fff;
 }
 
 ::selection {
-	background-color: #0d72c7;
+	background-color: #FF00FF;
 	color: #fff;
 }
 
@@ -256,7 +256,7 @@ overflow: hidden;
 .menu-primary li a:active,.menu-primary li a:hover,.menu-primary .current_page_item a,.menu-primary .current-cat a,.menu-primary .current-menu-item a,
 .menu-secondary li a:active,.menu-secondary li a:hover,.menu-secondary .current_page_item a,.menu-secondary .current-cat a,.menu-secondary .current-menu-item a,
 #header .menu li a:active,#header .menu li a:hover,#header .menu .current_page_item a,#header .menu .current-cat a,#header .menu .current-menu-item a {
-	color: #009ede;
+	color: #FF00FF;
 }
 
 /*Sub Menu Drop Down link*/
@@ -276,7 +276,7 @@ overflow: hidden;
 .menu-primary li li a:active,.menu-primary li li a:hover,
 .menu-secondary li li a:active,.menu-secondary li li a:hover,
 #header .menu li li a:active,#header .menu li li a:hover {
-	color: #009ede;
+	color: #FF00FF;
 }
 
 /* Plus Sign Image */
@@ -350,7 +350,7 @@ transition: all 80ms;
 #page-nav a:hover, #site-nav a:hover {
 
 text-decoration: none;
-color: #009ede;
+color: #FF00FF;
 	
 }
 
@@ -635,7 +635,7 @@ h5,
 h6 {
 	line-height: 1.25;
 	margin: 0 0 10px;
-	font: "lft-etica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: "lft-etica", "Times New Roman", Times New Roman, Times New Roman, sans-serif;
 }
 
 #content h1,
@@ -670,7 +670,7 @@ h3 {
 h2 a,
 h2 a:visited {
 	color: black;
-	font: "lft-etica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: "lft-etica", "Times New Roman", Times New Roman, Times New Roman, sans-serif;
 	font-weight: 700;
 }
 
@@ -862,7 +862,7 @@ h2.entry-title a:hover {
 
 input[type="button"],
 input[type="submit"],.button {
-	font-family: "source-sans-pro", Arial, "Helvetica Nueue", Helvetica, sans-serif;
+	font-family: "Times New Roman", Times New Roman, "Times New Roman", Times New Roman, sans-serif;
 background-color: #999;
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
